@@ -45,4 +45,5 @@ public class BSTCreation{
         inOrder(root);
     }
 }
+
 // 1 2 3 4 5 7 
