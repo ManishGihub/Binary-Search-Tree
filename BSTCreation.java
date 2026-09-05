@@ -1,4 +1,5 @@
 public class BSTCreation{
+    
     static class Node{
         int data;
         Node left;
