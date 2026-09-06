@@ -35,6 +35,7 @@ public class BSTCreation{
         System.out.print(root.data+" ");
         inOrder(root.right);
     }
+    
     public static void main(String []args){
         int values[] = {5,1,4,3,2,7};
 
