@@ -28,6 +28,7 @@ public class BSTCreation{
     }
 
     public static void inOrder(Node root){
+        
         if(root == null){
             return;
         }
