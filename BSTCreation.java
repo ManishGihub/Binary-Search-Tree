@@ -39,6 +39,7 @@ public class BSTCreation{
     }
     
     public static void main(String []args){
+        
         int values[] = {5,1,4,3,2,7};
 
         Node root = null;
