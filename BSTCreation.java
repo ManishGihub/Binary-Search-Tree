@@ -34,6 +34,7 @@ public class BSTCreation{
         if(root == null){
             return;
         }
+        
         inOrder(root.left);
         System.out.print(root.data+" ");
         inOrder(root.right);
