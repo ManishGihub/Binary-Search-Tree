@@ -45,6 +45,7 @@ public class BSTCreation{
         int values[] = {5,1,4,3,2,7};
 
         Node root = null;
+        
         for(int i=0;i<values.length;i++){
             root = insert(root, values[i]);
         }
