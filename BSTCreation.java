@@ -14,6 +14,7 @@ public class BSTCreation{
     public static Node insert(Node root,int val){
         
         if(root == null){
+            
             root = new Node(val);
             return root;
         }
