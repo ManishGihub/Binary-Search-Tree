@@ -17,6 +17,7 @@ public class BSTCreation{
             
             root = new Node(val);
             return root;
+            
         }
 
         if(root.data > val){
