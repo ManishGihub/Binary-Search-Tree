@@ -41,6 +41,7 @@ public class BSTCreation{
         inOrder(root.left);
         System.out.print(root.data+" ");
         inOrder(root.right);
+        
     }
     
     public static void main(String []args){
