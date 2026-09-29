@@ -7,6 +7,7 @@ public class BSTCreation{
         Node right;
 
         Node(int data){
+            
             this.data = data;
         }
     }
