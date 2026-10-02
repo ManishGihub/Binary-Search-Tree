@@ -40,6 +40,7 @@ public class BSTCreation{
         }
         
         inOrder(root.left);
+        
         System.out.print(root.data+" ");
         inOrder(root.right);
         
