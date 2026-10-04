@@ -17,6 +17,7 @@ public class BSTCreation{
         if(root == null){
             
             root = new Node(val);
+            
             return root;
             
         }
