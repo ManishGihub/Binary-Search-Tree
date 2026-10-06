@@ -53,6 +53,7 @@ public class BSTSearch{
     }
 
     public static void main(String []args){
+        
         int nodes[] = {5,3,1,4,2,9,8};
         Node root = null;
 
