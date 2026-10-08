@@ -1,6 +1,7 @@
 public class BSTSearch{
     
     static class Node{
+        
         int data;
         Node left;
         Node right;
