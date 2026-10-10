@@ -4,6 +4,7 @@ public class BSTSearch{
         
         int data;
         Node left;
+        
         Node right;
 
         Node(int data){
