@@ -5,6 +5,7 @@ public class BSTCreation{
         int data;
         
         Node left;
+        
         Node right;
 
         Node(int data){
