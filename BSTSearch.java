@@ -15,6 +15,7 @@ public class BSTSearch{
 
     public static Node Insert(Node root,int val){
         if(root == null){
+            
             root = new Node(val);
             return root;
         }
