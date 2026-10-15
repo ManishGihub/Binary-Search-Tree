@@ -17,6 +17,7 @@ public class BSTSearch{
         if(root == null){
             
             root = new Node(val);
+            
             return root;
         }
 
