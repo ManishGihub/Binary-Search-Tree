@@ -39,6 +39,7 @@ public class BSTSearch{
         InOrder(root.left);
         
         System.out.print(root.data+" ");
+        
         InOrder(root.right);
     }
 
