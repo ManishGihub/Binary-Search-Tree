@@ -69,6 +69,7 @@ public class BSTSearch{
         }
 
         InOrder(root);
+        
         System.out.println();
 
         if(search(root, 4)){
