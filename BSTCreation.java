@@ -25,6 +25,7 @@ public class BSTCreation{
         }
 
         if(root.data > val){
+            
             //left subtree
             root.left = insert(root.left, val);
         }else{
