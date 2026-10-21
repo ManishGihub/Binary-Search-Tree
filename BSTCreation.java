@@ -29,6 +29,7 @@ public class BSTCreation{
             //left subtree
             root.left = insert(root.left, val);
         }else{
+            
             //right subtree
             root.right = insert(root.right, val);
         }
