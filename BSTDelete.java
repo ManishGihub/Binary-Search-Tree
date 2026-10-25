@@ -4,6 +4,7 @@ public class BSTDelete {
         int data;
         
         Node left;
+        
         Node right;
 
         Node(int data){
