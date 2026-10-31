@@ -65,6 +65,7 @@ public class Root2LeafPaths{
         Node root = null;
 
         for(int i=0;i<nodes.length;i++){
+            
             root = BT(root,nodes[i]);
         }
 
