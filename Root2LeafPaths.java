@@ -47,6 +47,7 @@ public class Root2LeafPaths{
             printPath(path);
         }else{
             rootToLeafPath(root.left,path);
+            
             rootToLeafPath(root.right, path);
         }
         path.remove(path.size()-1);
