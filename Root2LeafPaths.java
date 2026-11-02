@@ -32,6 +32,7 @@ public class Root2LeafPaths{
         }
 
         IO(root.left);
+        
         System.out.print(root.data+" ");
         IO(root.right);
     }
