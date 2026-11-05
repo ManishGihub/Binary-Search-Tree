@@ -46,6 +46,7 @@ public class Root2LeafPaths{
         path.add(root.data);
 
         if(root.left == null && root.right == null){
+            
             printPath(path);
         }else{
             rootToLeafPath(root.left,path);
